@@ -1,11 +1,31 @@
-# Easybank-Landing-Page
-## Frontend Mentor Challenge:
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
+# Frontend Mentor - Easybank landing page solution
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-The only JavaScript required is for the mobile navigation toggle. However, you could also try doing this without JS.
+## Overview
 
-Your users should be able to:
-    View the optimal layout for the site depending on their device's screen size.
-    See hover states for all interactive elements on the page.
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Links
+
+- Solution URL:  (https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-aisqfwTR4U)
+- Live Site URL: (https://talebsleiman.github.io/Easybank-Landing-Page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Javascript
+
+## Author
+
+- Frontend Mentor - [@talebSleiman](https://www.frontendmentor.io/profile/talebSleiman)
